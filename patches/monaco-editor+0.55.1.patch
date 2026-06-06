@@ -1,0 +1,5 @@
+*** Begin Patch
+*** Update File: node_modules/monaco-editor/package.json
+@@
+    "dompurify": "^3.4.8"
+*** End Patch
